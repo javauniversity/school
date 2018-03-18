@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 7, 2018, 4:23:52 PM
+    Author     : wtccuser
+*/
+.navbar-inverse {
+    background-color: #404040;
+    border-color: #E7E7E7;
+    font-size: 1em;
+    color: white;
+}
+.navbar-inverse a {
+ 
+    color: white;
+}
+
+.navbar-inverse a:hover {
+    background-color: yellow;
+}
+.navbar {
+ 
+    background-color: #404040;
+}
+
+
+
+/* navbar */
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #692b90;
+    display: block;
+    background-color: #692b90;
+}
