@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+        <script src="https://use.fontawesome.com/337eea88fb.js"></script>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+         <link rel="stylesheet" href="http://cokcc.org/css/featherlight.css">
+        
+        <link rel="icon" href="http://cokcc.org/images/favicon.ico" type="image/x-icon" />
+    </head>
+    <body>
+        <!--- start menu -->
+        <script>
+            $(function () {
+                $("#menuId").load("menu.html");
+            });
+        </script>
+        <div id="menuId"></div>
+        <!-- end of menu -->
+
+
+        <script type="text/javascript" src="podcast.json"></script>
+        <script type="text/javascript" src="handlebars-v4.0.11.js"></script>
+        <script src="featherlight.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://cokcc.org/js/featherlight.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+
+        <script id="entry-template" type="text/x-handlebars-template">
+           
+            
+            <section class="w3-container" style="padding-top: 2cm;">
+            <div class="w3-container">
+
+                <div class="w3-card-4" style="width:100%;">
+                    <header class="w3-container">
+                        <h1>{{title}}</h1>
+                    </header>
+                    <div class="w3-container">
+                    
+                   
+                    
+                            <a href="{{hyperlink}}" data-featherlight-iframe-width="100%">
+                            <img src="{{image}}" class="w3-image" style="width:100%;max-width:400px;max-height:300px;" />
+                        </a>
+                        <p>{{content}}</p>
+                        <p></p>
+
+                    </div>
+                    <footer class="w3-container w3-light-grey">
+                        <h5>{{date}}</h5>
+                    </footer>
+
+                </div>
+            </div>
+        </section>
+        </script>
+
+        <div id="podcast" />
+        <script>
+
+            $.get("rss2.xml", function (data) {
+                var totalHTML = "";
+                var $xml = $(data);
+                $xml.find("item").each(function () {
+                    var $this = $(this),
+                            item = {
+                                title: $this.find("title").text(),
+                                link: $this.find("link").text(),
+                                description: $this.find("itunes\\:summary").text(),
+                                image:$this.find("itunes\\:image").attr("href"),
+                                date: $this.find("pubDate").text(),
+                                author: $this.find("author").text()
+                            }
+                    //Do something with item here...
+                    console.log(item.title + "- " + item.description + "- image[" + item.image);
+                    var html = "";
+                    html = buildSection(item);
+                    totalHTML = totalHTML + html;
+                });
+                document.getElementById("podcast").innerHTML = totalHTML;
+            });
+
+        </script>                        
+        <script>
+
+        function buildSection(item) {
+            var mydata = JSON.parse(data);
+
+
+            var source = document.getElementById("entry-template").innerHTML;
+            var template = Handlebars.compile(source);
+            var context = {title: item.title, image: item.image, hyperlink: item.link, content: item.description, date: item.date};
+            var html = template(context);
+            return html;
+
+                // alert(mydata[i].name);
+                //Do something
+           
+            //document.getElementById("podcast").innerHTML = totalHTML;
+        }
+
+        </script>
+
+
+
+
+        <style>
+            .footer {
+                position: fixed;
+                bottom: 0;
+
+                width: 100%;
+                height: 60px; /* Set the fixed height of the footer here */
+                line-height: 60px; /* Vertically center the text there */
+                background-color: #343a40;
+                ;
+            }
+        </style>
+        <br />
+        <br />    <br />
+        <!--- start footer container -->
+        <script>
+            $(function () {
+                $("#footerAtBottomId").load("footer.html");
+            });
+        </script>
+        <div id="footerAtBottomId"></div>
+
+        <!--- end footer container -->
+    </body>
+</html>

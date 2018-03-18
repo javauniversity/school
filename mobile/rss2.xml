@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christ Our King Community Church Audio</title>
+    <link>http://cokcc.podomatic.com</link>
+    <description>Christ Our King Community Church exists to build broken people into blessed people that live, learn, and lead together as a new community </description>
+    <language>en-us</language>
+    <generator>podOmatic RSS Generator</generator>
+    <pubDate>Mon, 15 Jan 2018 05:43:34 +0000</pubDate>
+    <itunes:keywords>Religion &amp; Spirituality,Christianity</itunes:keywords>
+    <itunes:subtitle>Pastor James White </itunes:subtitle>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_11989802.jpg"/>
+    <itunes:author>Christ Our King Community Church</itunes:author>
+    <itunes:summary>Christ Our King Community Church exists to build broken people into blessed people that live, learn, and lead together as a new community </itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <atom:link href="http://cokcc.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Discipline Shapes Our Destiny Sermon</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12581215.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White teaches from 2 Timothy 2:1-8.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2018-01-14T18_56_23-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2018-01-14T18_56_23-08_00</comments>
+      <pubDate>Mon, 15 Jan 2018 02:56:23 +0000</pubDate>
+      <dcterms:modified>2018-01-15</dcterms:modified>
+      <dcterms:created>2018-01-15</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2018-01-14T18_56_23-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2018-01-14T18_56_23-08_00.mp3" length="47163267" type="audio/mpeg"/>
+      <itunes:duration>3930</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12581215.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White teaches from 2 Timothy 2:1-8.</itunes:summary>
+      <itunes:subtitle>Pastor James White teaches from 2 Timothy 2:1-8.</itunes:subtitle>
+    </item>
+    <item>
+      <title>A Quiet Story</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12556500.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White Preaches from 
+Luke 2: 1-20</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-12-30T21_46_15-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-30T21_46_15-08_00</comments>
+      <pubDate>Sun, 31 Dec 2017 05:46:15 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-12-31</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-30T21_46_15-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-12-30T21_46_15-08_00.mp3" length="37874144" type="audio/mpeg"/>
+      <itunes:duration>3156</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12556500.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White Preaches from 
+Luke 2: 1-20</itunes:summary>
+      <itunes:subtitle>Pastor James White Preaches from 
+Luke 2: 1-20</itunes:subtitle>
+    </item>
+    <item>
+      <title>Minister Colin Adams - GOD With Us</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12539362.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Minister Colin Adams Teaches from Philippians 2:1-11.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-12-18T19_35_34-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-18T19_35_34-08_00</comments>
+      <pubDate>Tue, 19 Dec 2017 03:35:34 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-12-19</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-18T19_35_34-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-12-18T19_35_34-08_00.mp3" length="32727384" type="audio/mpeg"/>
+      <itunes:duration>2727</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12539362.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Minister Colin Adams Teaches from Philippians 2:1-11.</itunes:summary>
+      <itunes:subtitle>Minister Colin Adams Teaches from Philippians 2:1-11.</itunes:subtitle>
+    </item>
+    <item>
+      <title>Pastor James White - A Real Righteous Man</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12525615.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White Teaches from Matthew 1:18-25.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-12-10T17_46_00-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-10T17_46_00-08_00</comments>
+      <pubDate>Mon, 11 Dec 2017 01:46:00 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-12-11</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-10T17_46_00-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-12-10T17_46_00-08_00.mp3" length="41051859" type="audio/mpeg"/>
+      <itunes:duration>3421</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12525615.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White Teaches from Matthew 1:18-25.</itunes:summary>
+      <itunes:subtitle>Pastor James White Teaches from Matthew 1:18-25.</itunes:subtitle>
+    </item>
+    <item>
+      <title>Pastor James White- Scandalous Living</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_11989802.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White preaches from Luke 1:26-38</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-12-03T09_18_11-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-03T09_18_11-08_00</comments>
+      <pubDate>Sun, 03 Dec 2017 17:18:11 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-12-03</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-12-03T09_18_11-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-12-03T09_18_11-08_00.m4a" length="127419142" type="audio/mp4"/>
+      <itunes:duration>3998</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_11989802.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White preaches from Luke 1:26-38</itunes:summary>
+      <itunes:subtitle>Pastor James White preaches from Luke 1:26-38</itunes:subtitle>
+    </item>
+    <item>
+      <title>The Gift Or The Giver</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12500961.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White teaches from John 6:24-34.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-11-26T18_46_48-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-11-26T18_46_48-08_00</comments>
+      <pubDate>Mon, 27 Nov 2017 02:46:48 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-11-27</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-11-26T18_46_48-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-11-26T18_46_48-08_00.mp3" length="60211101" type="audio/mpeg"/>
+      <itunes:duration>3771</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12500961.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White teaches from John 6:24-34.</itunes:summary>
+      <itunes:subtitle>Pastor James White teaches from John 6:24-34.</itunes:subtitle>
+    </item>
+    <item>
+      <title>Unlikely</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12409479.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White covers Hebrews 11:31 and Joshua 2:1-12. </description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-11-12T09_13_33-08_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-11-12T09_13_33-08_00</comments>
+      <pubDate>Sun, 12 Nov 2017 17:13:33 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-11-12</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-11-12T09_13_33-08_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-11-12T09_13_33-08_00.mp3" length="45516590" type="audio/mpeg"/>
+      <itunes:duration>3793</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12409479.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White covers Hebrews 11:31 and Joshua 2:1-12. </itunes:summary>
+      <itunes:subtitle>Pastor James White covers Hebrews 11:31 and Joshua 2:1-12. </itunes:subtitle>
+    </item>
+    <item>
+      <title>The Blessing of Being Tested </title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12434982.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White teaches from Hebrews 11:17-19</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-10-22T09_23_08-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-22T09_23_08-07_00</comments>
+      <pubDate>Sun, 22 Oct 2017 16:23:08 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-10-22</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-22T09_23_08-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-10-22T09_23_08-07_00.mp3" length="83675535" type="audio/mpeg"/>
+      <itunes:duration>4183</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12434982.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White teaches from Hebrews 11:17-19</itunes:summary>
+      <itunes:subtitle>Pastor James White teaches from Hebrews 11:17-19</itunes:subtitle>
+    </item>
+    <item>
+      <title> Pastor James- Living For The Future By Faith </title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12422543.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Pastor James White teaches from Hebrews 11:13-16</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-10-15T09_10_38-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-15T09_10_38-07_00</comments>
+      <pubDate>Sun, 15 Oct 2017 16:10:38 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-10-15</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-15T09_10_38-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-10-15T09_10_38-07_00.mp3" length="55021823" type="audio/mpeg"/>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12422543.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Pastor James White teaches from Hebrews 11:13-16</itunes:summary>
+      <itunes:subtitle>Pastor James White teaches from Hebrews 11:13-16</itunes:subtitle>
+    </item>
+    <item>
+      <title>The Purpose of Suffering </title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12409479.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Elder Colin Adams teaches from Romans 5:1-5</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-10-08T08_56_19-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-08T08_56_19-07_00</comments>
+      <pubDate>Sun, 08 Oct 2017 15:56:19 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-10-08</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-08T08_56_19-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-10-08T08_56_19-07_00.mp3" length="60425028" type="audio/mpeg"/>
+      <itunes:duration>3021</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12409479.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Elder Colin Adams teaches from Romans 5:1-5</itunes:summary>
+      <itunes:subtitle>Elder Colin Adams teaches from Romans 5:1-5</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: October 01, 2017 Sermon Text: Hebrews 11:11-12, Genesis 11:29-30 Title: Powerless When We Are Powerless Preacher: Rodney Alexander Jr</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12396309.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: October 01, 2017 Sermon Text: Hebrews 11:11-12, Genesis 11:29-30 Title: Powerless When We Are Powerless Preacher: Rodney Alexander Jr.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-10-01T11_21_21-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-01T11_21_21-07_00</comments>
+      <pubDate>Sun, 01 Oct 2017 18:21:21 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-10-01</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-10-01T11_21_21-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-10-01T11_21_21-07_00.mp3" length="24201029" type="audio/mpeg"/>
+      <itunes:duration>2017</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12396309.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: October 01, 2017 Sermon Text: Hebrews 11:11-12, Genesis 11:29-30 Title: Powerless When We Are Powerless Preacher: Rodney Alexander Jr.</itunes:summary>
+      <itunes:subtitle>Date: October 01, 2017 Sermon Text: Hebrews 11:11-12, Genesis 11:29-30 Title: Powerless When We A...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: September 24, 2017 Sermon Text: Hebrews 11:8-12 Title: It Seems Like Insanity Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12384647.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: September 24, 2017 Sermon Text: Hebrews 11:8-12 Title: It Seems Like Insanity Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-09-24T21_36_56-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-24T21_36_56-07_00</comments>
+      <pubDate>Mon, 25 Sep 2017 04:36:56 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-09-25</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-24T21_36_56-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-09-24T21_36_56-07_00.mp3" length="42522127" type="audio/mpeg"/>
+      <itunes:duration>3543</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12384647.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: September 24, 2017 Sermon Text: Hebrews 11:8-12 Title: It Seems Like Insanity Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: September 24, 2017 Sermon Text: Hebrews 11:8-12 Title: It Seems Like Insanity Preacher: Pas...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: September 17, 2017 Sermon Text: Hebrews 11:6-7, Genesis 6-9 Title: Faith At Work Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12375831.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: September 17, 2017 Sermon Text: Hebrews 11:6-7, Genesis 6-9 Title: Faith At Work Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-09-19T18_44_04-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-19T18_44_04-07_00</comments>
+      <pubDate>Wed, 20 Sep 2017 01:44:04 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-09-20</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-19T18_44_04-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-09-19T18_44_04-07_00.mp3" length="32822447" type="audio/mpeg"/>
+      <itunes:duration>2735</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12375831.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: September 17, 2017 Sermon Text: Hebrews 11:6-7, Genesis 6-9 Title: Faith At Work Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: September 17, 2017 Sermon Text: Hebrews 11:6-7, Genesis 6-9 Title: Faith At Work Preacher: ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: September 10, 2017 Sermon Text: Hebrews 11:1-6, Genesis 4:1-16 Title: Faith Is Not Fair Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+12+7_12363544.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: September 10, 2017 Sermon Text: Hebrews 11:1-6, Genesis 4:1-16 Title: Faith Is Not Fair Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-09-12T19_14_50-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-12T19_14_50-07_00</comments>
+      <pubDate>Wed, 13 Sep 2017 02:14:50 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-09-13</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-12T19_14_50-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-09-12T19_14_50-07_00.mp3" length="49061422" type="audio/mpeg"/>
+      <itunes:duration>4088</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+12+7_12363544.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: September 10, 2017 Sermon Text: Hebrews 11:1-6, Genesis 4:1-16 Title: Faith Is Not Fair Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: September 10, 2017 Sermon Text: Hebrews 11:1-6, Genesis 4:1-16 Title: Faith Is Not Fair Pre...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: September 03, 2017 Sermon Text: Genesis 48 Title: Living Forward Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12350785.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: September 03, 2017 Sermon Text: Genesis 48 Title: Living Forward Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-09-05T18_54_48-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-05T18_54_48-07_00</comments>
+      <pubDate>Wed, 06 Sep 2017 01:54:48 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-09-06</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-09-05T18_54_48-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-09-05T18_54_48-07_00.mp3" length="44754329" type="audio/mpeg"/>
+      <itunes:duration>3729</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12350785.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: September 03, 2017 Sermon Text: Genesis 48 Title: Living Forward Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: September 03, 2017 Sermon Text: Genesis 48 Title: Living Forward Preacher: Pastor James White</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: August 27, 2017 Sermon Text: Genesis 47:1-11 Title: Security In Scarcity Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12337468.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: August 27, 2017 Sermon Text: Genesis 47:1-11 Title: Security In Scarcity Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-08-28T20_51_38-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-28T20_51_38-07_00</comments>
+      <pubDate>Tue, 29 Aug 2017 03:51:38 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-08-29</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-28T20_51_38-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-08-28T20_51_38-07_00.mp3" length="42635281" type="audio/mpeg"/>
+      <itunes:duration>3553</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12337468.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: August 27, 2017 Sermon Text: Genesis 47:1-11 Title: Security In Scarcity Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: August 27, 2017 Sermon Text: Genesis 47:1-11 Title: Security In Scarcity Preacher: Pastor J...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: August 20, 2017 Sermon Text: Genesis 46:28-30, I Corinthians 11:27-34 Title: Communion In Chaos Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12323636.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: August 20, 2017 Sermon Text: Genesis 46:28-30, I Corinthians 11:27-34 Title: Communion In Chaos Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-08-20T14_29_44-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-20T14_29_44-07_00</comments>
+      <pubDate>Sun, 20 Aug 2017 21:29:44 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-08-20</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-20T14_29_44-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-08-20T14_29_44-07_00.mp3" length="48846073" type="audio/mpeg"/>
+      <itunes:duration>4070</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12323636.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: August 20, 2017 Sermon Text: Genesis 46:28-30, I Corinthians 11:27-34 Title: Communion In Chaos Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: August 20, 2017 Sermon Text: Genesis 46:28-30, I Corinthians 11:27-34 Title: Communion In C...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: August 13, 2017 Sermon Text: Genesis 46:1-7 Title: Least Likely People In Unlikely Places Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12312572.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: August 13, 2017 Sermon Text: Genesis 46:1-7 Title: Least Likely People In Unlikely Places Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-08-13T23_56_49-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-13T23_56_49-07_00</comments>
+      <pubDate>Mon, 14 Aug 2017 06:56:49 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-08-14</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-13T23_56_49-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-08-13T23_56_49-07_00.mp3" length="51040040" type="audio/mpeg"/>
+      <itunes:duration>4253</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12312572.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: August 13, 2017 Sermon Text: Genesis 46:1-7 Title: Least Likely People In Unlikely Places Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: August 13, 2017 Sermon Text: Genesis 46:1-7 Title: Least Likely People In Unlikely Places P...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: August 06, 2017 Sermon Text: Genesis 45:1-11 Title: Living By Insight Rather Than Eyesight Preacher: Pastor James White</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12300875.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: August 06, 2017 Sermon Text: Genesis 45:1-11 Title: Living By Insight Rather Than Eyesight Preacher: Pastor James White</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-08-06T17_47_25-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-06T17_47_25-07_00</comments>
+      <pubDate>Mon, 07 Aug 2017 00:47:25 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-08-07</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-08-06T17_47_25-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-08-06T17_47_25-07_00.mp3" length="46825161" type="audio/mpeg"/>
+      <itunes:duration>3901</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12300875.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: August 06, 2017 Sermon Text: Genesis 45:1-11 Title: Living By Insight Rather Than Eyesight Preacher: Pastor James White</itunes:summary>
+      <itunes:subtitle>Date: August 06, 2017 Sermon Text: Genesis 45:1-11 Title: Living By Insight Rather Than Eyesight ...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: July 30, 2017 Sermon Text: Colossians 4:7-18 Preacher: Pastor CJ Stephens from Ekklesia - Church at Raleigh</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12123512.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: July 30, 2017 Sermon Text: Colossians 4:7-18 Preacher: Pastor CJ Stephens from Ekklesia - Church at Raleigh</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-07-30T16_47_49-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-30T16_47_49-07_00</comments>
+      <pubDate>Sun, 30 Jul 2017 23:47:49 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-07-30</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-30T16_47_49-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-07-30T16_47_49-07_00.mp3" length="27861163" type="audio/mpeg"/>
+      <itunes:duration>2322</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12123512.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: July 30, 2017 Sermon Text: Colossians 4:7-18 Preacher: Pastor CJ Stephens from Ekklesia - Church at Raleigh</itunes:summary>
+      <itunes:subtitle>Date: July 30, 2017 Sermon Text: Colossians 4:7-18 Preacher: Pastor CJ Stephens from Ekklesia - C...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: July 23, 2017 Sermon Text: Colossians 4 Title: Prayer The Love Language Of The Converted Preacher: Minister Matthew Hodges</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12269886.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: July 23, 2017 Sermon Text: Colossians 4 Title: Prayer The Love Language Of The Converted Preacher: Minister Matthew Hodges</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-07-23T16_10_33-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-23T16_10_33-07_00</comments>
+      <pubDate>Sun, 23 Jul 2017 23:10:33 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-07-23</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-23T16_10_33-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-07-23T16_10_33-07_00.mp3" length="63371800" type="audio/mpeg"/>
+      <itunes:duration>3969</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12269886.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: July 23, 2017 Sermon Text: Colossians 4 Title: Prayer The Love Language Of The Converted Preacher: Minister Matthew Hodges</itunes:summary>
+      <itunes:subtitle>Date: July 23, 2017 Sermon Text: Colossians 4 Title: Prayer The Love Language Of The Converted Pr...</itunes:subtitle>
+    </item>
+    <item>
+      <title>Date: July 16, 2017 Sermon Text: Colossians 3 Title: Living Heavenly In A Hellish World Preacher: Minister Earl Callair</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12265114.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;Date: July 16, 2017 Sermon Text: Colossians 3 Title: Living Heavenly In A Hellish World Preacher: Minister Earl Callair</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-07-20T19_44_39-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-20T19_44_39-07_00</comments>
+      <pubDate>Fri, 21 Jul 2017 02:44:39 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-07-21</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-20T19_44_39-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-07-20T19_44_39-07_00.mp3" length="29593355" type="audio/mpeg"/>
+      <itunes:duration>2466</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12265114.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Date: July 16, 2017 Sermon Text: Colossians 3 Title: Living Heavenly In A Hellish World Preacher: Minister Earl Callair</itunes:summary>
+      <itunes:subtitle>Date: July 16, 2017 Sermon Text: Colossians 3 Title: Living Heavenly In A Hellish World Preacher:...</itunes:subtitle>
+    </item>
+    <item>
+      <title>07-09-17 Joshua Roulhac - Gospel Clarity - Colossians 2:1-7 Sermon</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12244423.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;07-09-17 Joshua Roulhac - Gospel Clarity Sermon covered Bible Verses from Colossians 2:1-7.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-07-09T10_49_06-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-09T10_49_06-07_00</comments>
+      <pubDate>Sun, 09 Jul 2017 17:49:06 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-07-09</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-09T10_49_06-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-07-09T10_49_06-07_00.mp3" length="20492982" type="audio/mpeg"/>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12244423.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>07-09-17 Joshua Roulhac - Gospel Clarity Sermon covered Bible Verses from Colossians 2:1-7.</itunes:summary>
+      <itunes:subtitle>07-09-17 Joshua Roulhac - Gospel Clarity Sermon covered Bible Verses from Colossians 2:1-7.</itunes:subtitle>
+    </item>
+    <item>
+      <title>07-02-17 Minister Colin Adams - Colossians 1:15-29 - Christ Our Only Hope</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_11973116.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;07-02-17 Minister Colin Adams Sunday Sermon covered Bible Verses from Colossians 1:15-29.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-07-06T10_43_47-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-06T10_43_47-07_00</comments>
+      <pubDate>Thu, 06 Jul 2017 17:43:47 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-07-06</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-07-06T10_43_47-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-07-06T10_43_47-07_00.mp3" length="35152109" type="audio/mpeg"/>
+      <itunes:duration>2929</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_11973116.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>07-02-17 Minister Colin Adams Sunday Sermon covered Bible Verses from Colossians 1:15-29.</itunes:summary>
+      <itunes:subtitle>07-02-17 Minister Colin Adams Sunday Sermon covered Bible Verses from Colossians 1:15-29.</itunes:subtitle>
+    </item>
+    <item>
+      <title>06-18-17 Pastor James White - Genesis 32:22-32 - Fighting Fathers Sermon</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12226062.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;06-18-17 Pastor James White Sermon covers Bible Verses from Genesis 32:22-32. </description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-06-27T21_27_09-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-27T21_27_09-07_00</comments>
+      <pubDate>Wed, 28 Jun 2017 04:27:09 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-06-28</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-27T21_27_09-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-06-27T21_27_09-07_00.mp3" length="49467395" type="audio/mpeg"/>
+      <itunes:duration>4121</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12226062.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>06-18-17 Pastor James White Sermon covers Bible Verses from Genesis 32:22-32. </itunes:summary>
+      <itunes:subtitle>06-18-17 Pastor James White Sermon covers Bible Verses from Genesis 32:22-32. </itunes:subtitle>
+    </item>
+    <item>
+      <title>06-11-17 Pastor James White - Genesis 42 - Sin Is Complicated Sermon</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12197197.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;06-11-17 Pastor James White Sermon covers Bible Verses from Genesis 42</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-06-11T21_11_43-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-11T21_11_43-07_00</comments>
+      <pubDate>Mon, 12 Jun 2017 04:11:43 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-06-12</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-11T21_11_43-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-06-11T21_11_43-07_00.mp3" length="40911466" type="audio/mpeg"/>
+      <itunes:duration>3409</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12197197.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>06-11-17 Pastor James White Sermon covers Bible Verses from Genesis 42</itunes:summary>
+      <itunes:subtitle>06-11-17 Pastor James White Sermon covers Bible Verses from Genesis 42</itunes:subtitle>
+    </item>
+    <item>
+      <title>06-04-17 Pastor James White - Genesis 41:50-52 - Beginning Again Sermon</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12183310.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;06-04-17 Pastor James White Sermon covers Bible Verses from Genesis 41:50-52.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-06-04T14_40_56-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-04T14_40_56-07_00</comments>
+      <pubDate>Sun, 04 Jun 2017 21:40:56 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-06-04</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-06-04T14_40_56-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-06-04T14_40_56-07_00.mp3" length="40743137" type="audio/mpeg"/>
+      <itunes:duration>3395</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400_12183310.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>06-04-17 Pastor James White Sermon covers Bible Verses from Genesis 41:50-52.</itunes:summary>
+      <itunes:subtitle>06-04-17 Pastor James White Sermon covers Bible Verses from Genesis 41:50-52.</itunes:subtitle>
+    </item>
+    <item>
+      <title>05-21-17 Minister Colin Adams - James 3:13-18 - True Wisdom</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12157522.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;05-21-17 Minister Colin Adams Sermon covers Bible Verses from James 3:13-18.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-05-21T22_03_02-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-05-21T22_03_02-07_00</comments>
+      <pubDate>Mon, 22 May 2017 05:03:02 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-05-22</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-05-21T22_03_02-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-05-21T22_03_02-07_00.mp3" length="42809932" type="audio/mpeg"/>
+      <itunes:duration>3566</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12157522.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>05-21-17 Minister Colin Adams Sermon covers Bible Verses from James 3:13-18.</itunes:summary>
+      <itunes:subtitle>05-21-17 Minister Colin Adams Sermon covers Bible Verses from James 3:13-18.</itunes:subtitle>
+    </item>
+    <item>
+      <title>05-14-17 Pastor James White - Exodus 2:1-10 - The Courage Of A Mother</title>
+      <description>&lt;img src=&quot;http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12152434.jpg&quot; alt=&quot;itunes pic&quot; /&gt;&lt;br /&gt;05-14-17 Pastor James White Sermon covers Bible Verses from Exodus 2:1-10.</description>
+      <guid isPermaLink="true">http://cokcc.podomatic.com/entry/2017-05-18T20_57_34-07_00</guid>
+      <comments>https://www.podomatic.com/podcasts/cokcc/episodes/2017-05-18T20_57_34-07_00</comments>
+      <pubDate>Fri, 19 May 2017 03:57:34 +0000</pubDate>
+      <dcterms:modified>2018-01-14</dcterms:modified>
+      <dcterms:created>2017-05-19</dcterms:created>
+      <link>https://www.podomatic.com/podcasts/cokcc/episodes/2017-05-18T20_57_34-07_00</link>
+      <dc:creator>Christ Our King Community Church</dc:creator>
+      <itunes:keywords></itunes:keywords>
+      <enclosure url="http://cokcc.podomatic.com/enclosure/2017-05-18T20_57_34-07_00.mp3" length="45900573" type="audio/mpeg"/>
+      <itunes:duration>3825</itunes:duration>
+      <itunes:image href="http://assets.podomatic.net/ts/d5/bf/fe/globetrotter757/1400x1400-0x0+0+0_12152434.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>05-14-17 Pastor James White Sermon covers Bible Verses from Exodus 2:1-10.</itunes:summary>
+      <itunes:subtitle>05-14-17 Pastor James White Sermon covers Bible Verses from Exodus 2:1-10.</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Home</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+        <script src="http://cokcc.org/js/jquery.min.js" type="text/javascript"></script>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="http://cokcc.org/images/favicon.ico" type="image/x-icon" />
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-80348517-2', 'auto');
+            ga('send', 'pageview');
+
+        </script>
+        <link rel="stylesheet" href="http://cokcc.org/css/guesttemplate.css" />
+        <link rel="stylesheet" href="http://cokcc.org/css/guestcommon.css" />
+        <link rel="stylesheet" href="http://cokcc.org/css/guestabout.css" />
+        <script>
+            function viewMobile() {
+                top.location.href = "/faces/mobile/default.xhtml";
+            }
+            function openSocialSite(site) {
+                top.location.href = site;
+            }
+
+            function view(youtubeURL) {
+                top.location.href = youtubeURL;
+            }
+            function changeSubtitle(title) {
+                // var e = document.getElementById("idText");
+                //e.innerHTML=title;
+                var test;
+                var allElements = document.getElementsByTagName('*');
+                for (var i = 0; i < allElements.length; i++) {
+                    // ensure the element has an Id that is not empty and does exist
+                    // and string other than empty, '', will return true
+                    if (allElements[i].id == "idText") {
+                        var idMenu = document.getElementById("idText");
+                        idMenu.innerHTML = title;
+                    }
+                    //test = test + allElements[i].id  + ",";
+                }
+                //alert(test)
+            }
+        </script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body onload="changeSubtitle('Our Beliefs')">
+        <!--- start menu -->
+        <script>
+            $(function () {
+                $("#menuId").load("menu.html");
+            });
+        </script>
+        <div id="menuId"></div>
+        <!-- end of menu -->
+
+        <div class="container-fluid text-center pageChildSection about-header">  
+            <div class="row content">
+                <div class="col-md-9 push-md-3">
+
+                    <ul class="ul_none">
+                        <li>Direction
+                            from the Word of God
+                            <p>
+                                The holy Bible, from beginning to end, reveals God’s love and His plan for redemption. The
+                                Bible is timeless, and you can expect to hear us read from God’s Word with boldness and
+                                conviction
+                            </p>
+
+                        </li>
+                        <li>Devotion
+                            to one another
+                            <p>
+                                Do you remember what it was like when the church was first started? There was one big
+                                community. Every need was met. This is our desire. We have been created to be connected with one another. We discover who we are as well as who God is through our love for one
+                                another. A distinguishing mark of a Kingdom community is love for one another. 
+                            </p>
+                        </li>
+                        <li>
+                            Development
+                            that makes a difference
+                            <p>Direction from the word and devotion to one another leads to development that makes a
+                                difference. We are designed to grow through a transformative experience.</p>
+                        </li>
+                        <li>
+                            Dynamic
+                            Worship
+                            <p>If we are directed by the word, devoted to one another and being developed in a way that is
+                                transformative, then we will automatically experience worship that is dynamic.</p>
+                        </li>
+                        <li>
+                            Our Mission
+                            <p>We exist to build broken people into blessed people who live, learn, and lead together as a grace-filled community.</p>
+                        </li>
+                        <li>
+                            Our Vision
+                            <p> To become a multi-faceted, regional community of people transformed into grace-filled leaders impacting the world for Christ.</p>
+                        </li>
+                    </ul>  
+                </div>
+            </div><!-- end of row -->
+        </div>
+        <!--- start footer container -->
+        <script>
+            $(function () {
+                $("#footerAtBottomId").load("footer.html");
+            });
+        </script>
+        <div id="footerAtBottomId"></div>
+
+        <!--- end footer container -->
+    </body>
+</html>
+
+

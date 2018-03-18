@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Request</title>
+    
+        
+      
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+   <script src="https://use.fontawesome.com/337eea88fb.js"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="icon" href="http://cokcc.org/images/favicon.ico" type="image/x-icon" />
+        
+        
+        
+      
+    </head>
+
+<body>
+          <!--- start menu -->
+        <script>
+            $(function () {
+                $("#menuId").load("menu.html");
+            });
+        </script>
+        <div id="menuId"></div>
+        <!-- end of menu -->
+
+    <script>
+        var date = new Date();
+
+        var day = date.getDate();
+        var month = date.getMonth() + 1;
+        var year = date.getFullYear();
+
+        if (month < 10)
+            month = "0" + month;
+        if (day < 10)
+            day = "0" + day;
+
+        var today = year + "-" + month + "-" + day;
+
+
+        document.getElementById('theDate').value = today;
+    </script>
+
+    <div class="container"  style="padding-top: 12%;">
+        <h2>Purchase Request 
+
+        </h2>
+        <p>Effective immediately, all special events must be pre-approved.  Please complete the Purchase Request Form 
+            at least 3 weeks in advance of event date.  </p>
+        <form method="post" action="http://cokcc.org/a.php">
+
+            <div class="form-group">
+                <label for="name"> Your Name:</label>
+                <input type="text" placeholder="Enter Name" class="form-control" id="name" required >
+            </div>
+            <div class="form-group">
+                <label for="emailname"> Your Email:</label>
+                <input type="email" placeholder="Enter Email" class="form-control" id="email" required >
+            </div>
+
+            <div class="form-group">
+                <label for="emailname"> Your Email:</label>
+                <input type="email" placeholder="Enter Email again" class="form-control" id="emailOne" required >
+            </div>
+
+            <div class="form-group">
+                <label for="min">Ministry:</label>
+                <select class="selectpicker form-control" id="min">
+                    <option>Mustard</option>
+                    <option>Ketchup</option>
+                    <option>Relish</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="purpose">Purpose:</label>
+                <input  placeholder="Enter purpose" type="text" class="form-control" id="purpose" required>
+            </div>
+            <div class="form-group">
+                <label for="items">Items Requested:</label>
+                <input placeholder="Enter items " type="text" class="form-control" id="items"  required="">
+            </div>
+
+            <div class="form-group">
+                <label for="amountofpeople">Number of people:</label>
+                <input placeholder="Enter number of participants" type="number" class="form-control" id="amountofpeople" required="">
+            </div>
+
+            <div class="form-group">
+                <label for="total">Total Amount Requested:</label>
+                <input placeholder="Enter total amount" type="number" class="form-control" id="total" required>
+            </div>
+
+            <div class="form-group">
+
+                <input type="submit" class="form-control" value="Send">
+            </div>
+
+
+        </form>
+    </div>
+    
+    
+           <!-- start of footer content --> 
+    <style>
+        .footer {
+            position: fixed;
+            bottom: 0;
+        
+            width: 100%;
+            height: 60px; /* Set the fixed height of the footer here */
+            line-height: 60px; /* Vertically center the text there */
+            background-color: #343a40;
+            ;
+        }
+    </style>
+    <br />
+    <br />    <br />
+            <!--- start footer container -->
+        <script>
+            $(function () {
+                $("#footerAtBottomId").load("footer.html");
+            });
+        </script>
+        <div id="footerAtBottomId"></div>
+
+</body>
+</html>
